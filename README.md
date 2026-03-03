@@ -6,29 +6,16 @@ SGX Mobility is a smart transportation platform designed to enhance mobility ser
 
 🔐 User Authentication (Sign up / Login)
 
-📍 Real-time Location Tracking
-
-🚕 Ride Booking System
-
-💳 Payment Integration
-
 📊 Ride History & Analytics
 
 🔔 Push Notifications
 
-🤖 AI-based Recommendations (optional/future)
-
-🛠️ Tech Stack
 
 Frontend: Flutter
-
-Backend: Firebase (Authentication, Firestore, Realtime DB)
-
-State Management: Provider / Riverpod (choose what you used)
-
-Maps & Location: Google Maps API
+State Management: Provider 
 
 Notifications: Firebase Cloud Messaging
+
 📂 Project Structure
 sgx_mobility/
 │── lib/
@@ -45,11 +32,8 @@ sgx_mobility/
 
 🚀 Getting Started
 Prerequisites
-
 Flutter SDK installed
-
 Dart installed
-
 Android Studio / VS Code
 
 Firebase project setup
@@ -58,7 +42,7 @@ Firebase project setup
 
 Clone the repository
 
-git clone https://github.com/your-username/sgx-mobility.git
+[git clone https://github.com/your-username/sgx-mobility.git](https://github.com/Fikiremariyam/sgx.git)
 cd sgx-mobilit
 Install dependencies
 
@@ -80,25 +64,13 @@ Authentication
 Firestore Database
 Cloud Messaging
 📍 Environment Configuration
+
 Create a .env file:
 GOOGLE_MAPS_API_KEY=your_api_key
 FIREBASE_API_KEY=your_key
 🧪 Testing
+
 flutter test
-📈 Future Improvements
-
-AI-based route optimization
-
-Driver-passenger matching algorithm
-
-In-app chat system
-
-Multi-language support
-
-🤝 Contributing
-
-Contributions are welcome!
-
 Fork the project
 
 Create your feature branch
@@ -107,7 +79,7 @@ Commit your changes
 Push to the branch
 Open a Pull Request
 📄 License
-This project is licensed under the MIT License.
-👨‍💻 Author
+This project is licensed under the Apache License 2.0 License.
+
 
 Developed by Fikiremariyam Yalew
